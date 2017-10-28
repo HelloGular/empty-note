@@ -15,3 +15,16 @@ ng new my-app
 cd my-app
 ng serve --open
 ```
+
+### Add bootstrap framework to your app
+```
+npm install --save bootstrap
+```
+
+### To access bootstrap with your templates add below code to your src/styles.css file
+```
+/* You can add global styles to this file, and also import other style files */
+
+@import "~bootstrap/dist/css/bootstrap.css"
+```
+
