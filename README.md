@@ -28,3 +28,10 @@ npm install --save bootstrap
 @import "~bootstrap/dist/css/bootstrap.css"
 ```
 
+## To add navigation bar in a seperate component create new component using angular cli
+```
+ng g component <name_of_your_component>
+```
+
+
+
